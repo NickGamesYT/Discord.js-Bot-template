@@ -11,7 +11,5 @@ click on the link and invite your bot to your server
 go back to https://discordapp.com/developers/applications/me
 copy you token
 go to the file settings.json and replace YOUR_TOKEN_HERE with your token
-open CMD and type in cd Desktop
-type in cd your-folder-name
-type in npm install discord.js --save
-now type in node app.js and if the console shows: The bot is online, your bot is online!
+open from the folder, the setup.bat file and the bot starts, if you will shutdown the bot close the screen
+if you will start the bot, open the start.bat file, if you will shutdown the bot, close the screen
